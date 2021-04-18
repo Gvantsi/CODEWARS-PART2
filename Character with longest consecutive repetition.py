@@ -22,3 +22,7 @@ def longest_repetition(chars):
             letter = i
     # Return answer
     return (letter,largest_sum)
+
+
+
+
